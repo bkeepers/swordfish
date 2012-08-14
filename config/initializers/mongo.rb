@@ -1,1 +1,0 @@
-Swordfish::Application.config.mongo = Mongo::Connection.new.db("vault-#{Rails.env}")
